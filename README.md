@@ -8,7 +8,7 @@ This is a **ToDo Application** built using **Kotlin**. The app allows users to m
 To clone this project, use the following command:  
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/karankumar544/ToDoApp.git>
 
 
 
@@ -25,4 +25,5 @@ Material 3 Components – Modern UI components for an intuitive experience
 
 
 📸 Screenshots
-
+(s1.jpg)
+(s2.jpg)
